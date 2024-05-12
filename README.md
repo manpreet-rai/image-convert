@@ -1,5 +1,5 @@
 # imgconvert
-An open source tool for image format conversion based on Python 3 
+An open source tool for image format conversion based on Python 3. Converts single file or all files of any specified type in a directory.
 
 ## Requirements
 * Python 3.8.5 or later
